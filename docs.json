@@ -118,5 +118,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "variables": {
+    "version": "1.0.1"
   }
 }
