@@ -121,6 +121,7 @@
   },
   "variables": {
     "version": "1.0.1",
-    "hello": "bye!"
+    "hello": "bye!",
+    "awesome_hi": "no so awesome"
   }
 }
